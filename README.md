@@ -1,6 +1,6 @@
 # Runway Rumble
 
-An original browser platform fighter prototype with a fashion editorial aesthetic. Four selectable concept fighters inspired by the supplied model roster; original stylized artwork, no scraped photos or claimed affiliation.
+An original browser platform fighter prototype with a fashion editorial aesthetic. Four selectable concept fighters inspired by the supplied model roster; original pixel sprite artwork, no scraped photos or claimed affiliation.
 
 ## Run
 
@@ -18,8 +18,12 @@ Select a fighter and enter the arena. A/D or left/right arrows move; W or up arr
 
 ## Status
 
-Playable local single-player prototype: CPU opponent, one stage, stock and damage systems, double jump, character speed/power differences, pause and rematch. No multiplayer, licensed portraits, audio, or production character animations yet. External Google Fonts are optional; system font fallbacks work offline. Profile links identify the requested inspirations.
+Playable local single-player prototype: CPU opponent, one stage, stock and damage systems, double jump, character speed/power differences, pause and rematch. No multiplayer, licensed portraits, audio, or photo-matched likenesses yet. External Google Fonts are optional; system font fallbacks work offline. Profile links identify the requested inspirations.
 
 ## Validation
 
 `npm run check` checks the game JavaScript syntax. Run the game to validate browser rendering and controls.
+
+## Character art
+
+Roster portraits and in-game fighters share original low-resolution sprites with nearest-neighbor rendering and idle, run, jump, strike, and power poses. Current appearances are provisional: source profile sites were inaccessible in this environment. Clear uploaded reference photos are needed to match the actual models.
